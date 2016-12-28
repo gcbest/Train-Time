@@ -6,6 +6,8 @@ This app is a train schedule application that incorporates Firebase to host arri
 
 It also allows the user to enter the time a train route starts sending out trains and how often a train departs in order to find out when is the next train the user could possibly take.
 
+![image Description](https://github.com/gcbest/Train-Time/blob/master/assets/trainTimeScreenshot.png)
+
 ### Online Demo
 You can test a fully working live demo at
 
